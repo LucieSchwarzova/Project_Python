@@ -24,8 +24,9 @@ https://github.com/LucieSchwarzova/Project_Python/blob/master/sCRAP_the_robot.py
 
 ## Out proposal:
 
-\i{The aim of out project is to build a program that scrapes data on retail prices from selected sources (czc.cz is confirmed to be feasible, other sources are being discussed) and saves it in pre-selected time intervals as a .csv file. Further, we will process the the collected data to transform it from a series of cross-sections into a panel / time series and prepare it for further analysis. 
+The aim of out project is to build a program that scrapes data on retail prices from selected sources (czc.cz is confirmed to be feasible, other sources are being discussed) and saves it in pre-selected time intervals as a .csv file. Further, we will process the the collected data to transform it from a series of cross-sections into a panel / time series and prepare it for further analysis. 
 We already have a robot to scrape all goods and prices from a given category in CZC CZ (see attached notebook) The task now is to teach it to scan across categories, save the data in files with systematic names and maily, to ge time-triggered. 
-The output of this project should be, next to the precious code, also a unique dataset that can serve us (or someone else) to study the pricing strategies used by retailers in the peak season of their business. }
+The output of this project should be, next to the precious code, also a unique dataset that can serve us (or someone else) to study the pricing strategies used by retailers in the peak season of their business.
+
 
 
