@@ -404,7 +404,7 @@ class collect:
                 data_storage.execute( """INSERT INTO {}(shop, category, product, price, stamp)
                 VALUES ('{}','{}','{}','{}','{}')""".format(table, link, category, product, price, time))
                 data_storage.execute("""COMMIT""")
-                print("Recod {}/{} was added in the database\n".format(i+1,self.request.itms))
+                print("Record {}/{} was added in the database\n".format(i+1,self.request.itms))
                 data_storage.close()
             print("All changes successfully commited \n")
             
